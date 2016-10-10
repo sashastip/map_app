@@ -16,6 +16,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'leaflet-rails'
 gem 'bootstrap-sass'
 
+gem 'devise'
+
 group :development, :test do
   gem 'byebug'
 end
